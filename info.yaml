@@ -1,0 +1,19 @@
+---
+project:
+  description: "Analog Blocks for LDO and DPLL for Google sponsored Open MPW shuttles for SKY130."
+  foundry: "SkyWater"
+  git_url: "https://github.com/mabrains/caravel_user_project_LDO_DPLL.git"
+  organization: "Mabrains"
+  organization_url: "https://mabrains.com"
+  owner: "Amro Tork"
+  process: "SKY130"
+  project_name: "Caravel Analog User"
+  project_id: "00000001"
+  tags:
+    - "Open MPW"
+    - "Test Harness"
+  category: "Test Harness"
+  top_level_netlist: "caravel/verilog/gl/caravan.v"
+  user_level_netlist: "verilog/rtl/user_analog_project_wrapper.v"
+  version: "1.00"
+  cover_image: "docs/source/_static/caravel_harness.png"
